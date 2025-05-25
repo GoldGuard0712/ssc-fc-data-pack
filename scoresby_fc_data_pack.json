@@ -1,0 +1,195 @@
+{
+  "teamName": "Scoresby Secondary College FC",
+  "shortName": "SSC FC",
+  "stadium": "Scoresby Arena",
+  "kitColors": [
+    "orange",
+    "black"
+  ],
+  "players": [
+    {
+      "Name": "Sharma",
+      "Position": "CB",
+      "Foot": "Right",
+      "OVR": 84,
+      "POT": 90,
+      "Traits": "Ball Playing, Captain, Tactical Awareness"
+    },
+    {
+      "Name": "Tin",
+      "Position": "GK",
+      "Foot": "Right",
+      "OVR": 87,
+      "POT": 91,
+      "Traits": "Shot Stopper, Confident, Sweeper Keeper"
+    },
+    {
+      "Name": "Beau",
+      "Position": "CB",
+      "Foot": "Right",
+      "OVR": 85,
+      "POT": 90,
+      "Traits": "Aerial Dominance, Composed, Brave"
+    },
+    {
+      "Name": "Blake",
+      "Position": "CB/CM/Wing/ST",
+      "Foot": "Right",
+      "OVR": 87,
+      "POT": 92,
+      "Traits": "Versatile, Calm, Technical"
+    },
+    {
+      "Name": "Lucas",
+      "Position": "RB",
+      "Foot": "Right",
+      "OVR": 79,
+      "POT": 84,
+      "Traits": "Passer, Intelligent, Solid Defender"
+    },
+    {
+      "Name": "Max",
+      "Position": "CB",
+      "Foot": "Right",
+      "OVR": 76,
+      "POT": 80,
+      "Traits": "Tackler, Brave"
+    },
+    {
+      "Name": "Max Wazza",
+      "Position": "CB/LB",
+      "Foot": "Right",
+      "OVR": 75,
+      "POT": 81,
+      "Traits": "Physical, Calm, Rotation"
+    },
+    {
+      "Name": "Oli (club)",
+      "Position": "LB/CM",
+      "Foot": "Right",
+      "OVR": 87,
+      "POT": 92,
+      "Traits": "Attacking Fullback, Tackler, Fearless"
+    },
+    {
+      "Name": "Brian",
+      "Position": "CDM",
+      "Foot": "Right",
+      "OVR": 82,
+      "POT": 88,
+      "Traits": "Aggressive, Physical, Defensive Anchor"
+    },
+    {
+      "Name": "Will",
+      "Position": "CM",
+      "Foot": "Right",
+      "OVR": 84,
+      "POT": 91,
+      "Traits": "Playmaker, Visionary, Calm"
+    },
+    {
+      "Name": "Hirun",
+      "Position": "CM/LWB",
+      "Foot": "Right",
+      "OVR": 88,
+      "POT": 94,
+      "Traits": "Fast, Dribbler, Complete Baller"
+    },
+    {
+      "Name": "Riley (club)",
+      "Position": "CM",
+      "Foot": "Right",
+      "OVR": 75,
+      "POT": 80,
+      "Traits": "Supportive, Reliable"
+    },
+    {
+      "Name": "Harvey",
+      "Position": "RW",
+      "Foot": "Left",
+      "OVR": 87,
+      "POT": 92,
+      "Traits": "Dribbler, Curve Shots, Technical"
+    },
+    {
+      "Name": "Finn",
+      "Position": "LW",
+      "Foot": "Right",
+      "OVR": 87,
+      "POT": 92,
+      "Traits": "Direct, Powerful Shot, Fast"
+    },
+    {
+      "Name": "Brooklyn",
+      "Position": "ST/CB",
+      "Foot": "Right",
+      "OVR": 84,
+      "POT": 89,
+      "Traits": "Target Man, Versatile"
+    },
+    {
+      "Name": "Elias",
+      "Position": "ST",
+      "Foot": "Right",
+      "OVR": 89,
+      "POT": 94,
+      "Traits": "Finisher, Creator, Physical, Clutch"
+    },
+    {
+      "Name": "Kieran",
+      "Position": "CB",
+      "Foot": "Left",
+      "OVR": 82,
+      "POT": 87,
+      "Traits": "Composed, Strong, Left-Footed"
+    },
+    {
+      "Name": "Zilong",
+      "Position": "CM",
+      "Foot": "Right",
+      "OVR": 79,
+      "POT": 85,
+      "Traits": "Aggressive, Tackler, Energizer"
+    },
+    {
+      "Name": "Kyle",
+      "Position": "RB",
+      "Foot": "Right",
+      "OVR": 77,
+      "POT": 82,
+      "Traits": "Passer, Calm, Defensive Minded"
+    },
+    {
+      "Name": "Xavier",
+      "Position": "LB",
+      "Foot": "Left",
+      "OVR": 76,
+      "POT": 82,
+      "Traits": "Physical, Tackler, Athletic"
+    },
+    {
+      "Name": "Oli (school)",
+      "Position": "CM",
+      "Foot": "Right",
+      "OVR": 78,
+      "POT": 84,
+      "Traits": "Aerial, Pressing, Box-to-Box"
+    },
+    {
+      "Name": "Connor",
+      "Position": "CB",
+      "Foot": "Right",
+      "OVR": 75,
+      "POT": 80,
+      "Traits": "Safe, Physical, Defensive Backup"
+    },
+    {
+      "Name": "Riley (school)",
+      "Position": "LW",
+      "Foot": "Right",
+      "OVR": 87,
+      "POT": 92,
+      "Traits": "Fast, Movement, Pressing"
+    }
+  ]
+}
